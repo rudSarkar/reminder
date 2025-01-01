@@ -2,7 +2,7 @@ package routes
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/rudSarkar/reminder/controllers"
+	"github.com/rudSarkar/reminder/app/controllers"
 )
 
 func RegisterAPIRoute(r *gin.Engine) {
